@@ -4,7 +4,7 @@ body {
 	font-family: sans-serif;
 }
 
-#shell {
+.shell {
 	width: 500px;
 	margin-right: auto;
 	margin-left: auto;
@@ -16,18 +16,18 @@ body {
 	height: 200px;
 }
 
-#red {
+.red {
 	background-color: red;
 }
 
-#green {
+.green {
 	background-color: green;	
 }
 
-#blue {
+.blue {
 	background-color: blue;
 }
 
-#yellow {
+.yellow {
 	background-color: yellow;
 }
